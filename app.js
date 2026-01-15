@@ -1,8 +1,8 @@
 const productos = [
     {
-        nombre: "Producto 1",
+        nombre: "Camara",
         precio: "$40.000",
-        img: "img/producto1.jpg",
+        img: "img/camera.avif",
         descripcion: "Descripción breve del producto 1."
     },
     {
