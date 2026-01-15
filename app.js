@@ -1,6 +1,6 @@
 const productos = [
     {
-        nombre: "Producto 1",
+        nombre: "Camara de Seguridad",
         precio: "$40.000",
         img: "img/producto1.jpg",
         descripcion: "Descripción breve del producto 1."
