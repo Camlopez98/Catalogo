@@ -10,6 +10,16 @@ const productos = [
         descripcion: "Cámara WiFi con visión nocturna, audio bidireccional y seguimiento de movimiento."
     },
     {
+        nombre: "Sandalias",
+        precio: "$35.000",
+        img: [
+            "img/sandalias.avif",
+            "img/sandalias2.avif",
+            "img/sandalias3.avif"
+        ],
+        descripcion: "Sandalias de Verano Nuevas Casuales de Moda para Mujer."
+    },
+    {
         nombre: "Humificador",
         precio: "$20.000",
         img: [
