@@ -3,14 +3,17 @@ const productos = [
         nombre: "Camara",
         precio: "$40.000",
         img: ["img/camera.avif",
-            "img/camera2.jpg.avif"
+            "img/camera2.jpg.avif",
+            "img/camera3.avif"
         ],
-        descripcion: "Descripción breve del producto 1."
+        descripcion: "1pc Cámara WiFi Inalámbrica de Visión Nocturna a Todo Color | 1080P Full HD, Doble Uso Interior/Exterior, Audio Bidireccional, Tecnología PTZ, Seguridad para el Hogar Inteligente, Seguimiento de Movimiento, Adecuada para el Monitoreo de Ancianos y Mascotas, Para Colgar en la Pared."
     },
     {
         nombre: "Producto 2",
         precio: "$55.000",
-        img: "img/producto2.jpg",
+        img: ["img/humificador.avif",
+            "img/humificador2.avif"
+        ],
         descripcion: "Descripción breve del producto 2."
     },
     {
