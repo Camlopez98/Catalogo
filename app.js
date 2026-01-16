@@ -25,7 +25,7 @@ const productos = [
         img: [
             "img/humificador.avif",
             "img/humificador2.avif",
-            "img/humificador3.avif"
+            "img/humificador0.avif"
         ],
         descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
     }
