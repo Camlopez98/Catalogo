@@ -17,10 +17,10 @@ const productos = [
         descripcion: "Descripción breve del producto 2."
     },
     {
-        nombre: "Producto 3",
-        precio: "$80.000",
-        img: "img/producto3.jpg",
-        descripcion: "Descripción breve del producto 3."
+        nombre: "Humificador",
+        precio: "$16.000",
+        img: "img/humificador3.avif",
+        descripcion: "Difusor de Aceites Esenciales 1 en 1 y Humidificador de Niebla Fría"
     }
 ];
 
