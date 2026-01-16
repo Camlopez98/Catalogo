@@ -40,94 +40,94 @@ const productos = [
         descripcion: "Difusor de Aceites Esenciales con Luz Nocturna Apagable."
     },
     {
-        nombre: "",
-        precio: "$20.000",
+        nombre: "Pantuflas",
+        precio: "$23.000",
         img: [
-            "img/humificador.avif",
-            "img/humificador2.avif",
-            "img/humificador0.avif"
+            "img/peluche.avif",
+            "img/peluche1.avif",
+            "img/pelcuhe2.avif"
         ],
-        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+        descripcion: "Decoración de Corazón, Diseño de Punta Abierta, Suaves y Cómodas, Ligeras, Ideales para Dormitorio."
     },
     {
-        nombre: "",
+        nombre: "Bomba de agua eléctrica USB",
         precio: "$20.000",
         img: [
-            "img/humificador.avif",
-            "img/humificador2.avif",
-            "img/humificador0.avif"
+            "img/d.avif",
+            "img/d1.avif",
+            "img/d2.avif"
         ],
-        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+        descripcion: "Dispensador de agua portátil/manos libres para botellas de 11.36-18.93 L."
     },
     {
-        nombre: "",
-        precio: "$20.000",
+        nombre: "Collar de Trebol Dorado",
+        precio: "$7.000",
         img: [
-            "img/humificador.avif",
-            "img/humificador2.avif",
-            "img/humificador0.avif"
+            "img/t.avif",
+            "img/t1.avif",
+            "img/t2.avif"
         ],
-        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+        descripcion: "Collar De Cadena De Clavícula Con Flor Pequeña"
     },
     {
-        nombre: "",
-        precio: "$20.000",
+        nombre: "Collar de Trebol Plateado",
+        precio: "$7.000",
         img: [
-            "img/humificador.avif",
-            "img/humificador2.avif",
-            "img/humificador0.avif"
+            "img/c.avif",
+            "img/t2.avif",
+            "img/c.avif"
         ],
-        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+        descripcion: "Collar De Cadena De Clavícula Con Flor Pequeña."
     },
     {
-        nombre: "",
-        precio: "$20.000",
+        nombre: "Collar y aretes de Perlas",
+        precio: "$11.500",
         img: [
-            "img/humificador.avif",
-            "img/humificador2.avif",
-            "img/humificador0.avif"
+            "img/p0.avif",
+            "img/p.avif",
+            "img/p1.avif"
         ],
-        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+        descripcion: "Juego de 3 Piezas: Aretes y Collar de Perlas Falsas Minimalistas."
     },
     {
-        nombre: "",
-        precio: "$20.000",
+        nombre: "funda protectora de cargador",
+        precio: "$12.000",
         img: [
-            "img/humificador.avif",
-            "img/humificador2.avif",
-            "img/humificador0.avif"
+            "img/pro.avif",
+            "img/pro1.avif",
+            "img/pro.avif"
         ],
-        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+        descripcion: "adecuada para la serie de for iphone 11/12/13/14/15/16."
     },
     {
-        nombre: "",
-        precio: "$20.000",
+        nombre: "Conjunto de deporte",
+        precio: "$28.400",
         img: [
-            "img/humificador.avif",
-            "img/humificador2.avif",
-            "img/humificador0.avif"
+            "img/b.avif",
+            "img/b1.avif",
+            "img/b2.avif"
         ],
-        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+        descripcion: "TALLA M, soporte alto para mujer y pantalones cortos."
     },
     {
-        nombre: "",
-        precio: "$20.000",
+        nombre: "Aretes Cafes",
+        precio: "$7.900",
         img: [
-            "img/humificador.avif",
-            "img/humificador2.avif",
-            "img/humificador0.avif"
+            "img/are1.avif",
+            "img/are2.avif",
+            "img/are.avif"
         ],
-        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+        descripcion: "Diseño Geométrico en Cuello de Cisne y Textura Redonda de Resina."
     },
     {
-        nombre: "",
-        precio: "$20.000",
+        nombre: "Conjunto Intimo",
+        precio: "$36.400",
         img: [
-            "img/humificador.avif",
-            "img/humificador2.avif",
-            "img/humificador0.avif"
+            "img/con.avif",
+            "img/con1.avif",
+            "img/con2.avif"
         ],
-        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+        descripcion: "Conjunto de lencería de encaje TALLA S."
     },
     {
         nombre: "",
