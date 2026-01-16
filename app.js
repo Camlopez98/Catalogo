@@ -51,7 +51,7 @@ const productos = [
     },
     {
         nombre: "Bomba de agua eléctrica USB",
-        precio: "$20.000",
+        precio: "$22.800",
         img: [
             "img/d.avif",
             "img/d1.avif",
@@ -130,64 +130,64 @@ const productos = [
         descripcion: "Conjunto de lencería de encaje TALLA S."
     },
     {
-        nombre: "",
-        precio: "$20.000",
+        nombre: "Juego de 8 brochas de maquillaje",
+        precio: "$11.500",
         img: [
-            "img/humificador.avif",
-            "img/humificador2.avif",
-            "img/humificador0.avif"
+            "img/brochas.avif",
+            "img/brochas1.avif",
+            "img/brochas2.avif"
         ],
-        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+        descripcion: "Cerdas suaves para colorete y sombra de ojos, brochas de cerdas suaves para sombra de ojos y polvo suelto."
     },
     {
-        nombre: "",
-        precio: "$20.000",
+        nombre: "Juego de 13 Brochas de Maquillaje",
+        precio: "$19.900",
         img: [
-            "img/humificador.avif",
-            "img/humificador2.avif",
-            "img/humificador0.avif"
+            "img/bro.avif",
+            "img/bro1.avif",
+            "img/bro2.avif"
         ],
-        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+        descripcion: "Pelo Suave para Sombra de Ojos, Base y Colorete."
     },
     {
-        nombre: "",
-        precio: "$20.000",
+        nombre: "Aretes plateados por unidad",
+        precio: "$5.500",
         img: [
-            "img/humificador.avif",
-            "img/humificador2.avif",
-            "img/humificador0.avif"
+            "img/aret.avif",
+            "img/aret1.avif",
+            "img/aret2.avif"
         ],
-        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+        descripcion: "Pendientes anchos en forma de C con gotas de agua para mujer."
     },
     {
-        nombre: "",
-        precio: "$20.000",
+        nombre: "Pendientes rojos cuadrados",
+        precio: "$7.900",
         img: [
-            "img/humificador.avif",
-            "img/humificador2.avif",
-            "img/humificador0.avif"
+            "img/ro.avif",
+            "img/ro1.avif",
+            "img/ro.avif"
         ],
-        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+        descripcion: "Adecuados para Fiestas y Ocasiones de Boda."
     },
     {
-        nombre: "",
-        precio: "$20.000",
+        nombre: "Pasadores para el cabello por unidad",
+        precio: "$3.900",
         img: [
-            "img/humificador.avif",
-            "img/humificador2.avif",
-            "img/humificador0.avif"
+            "img/ca0.avif",
+            "img/ca.avif",
+            "img/ca1.avif"
         ],
-        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+        descripcion: "Estilo casual y moderno, perfectos para salir o ir al trabajo."
     },
     {
-        nombre: "",
-        precio: "$20.000",
+        nombre: "Correas de silicona por unidad",
+        precio: "$8.000",
         img: [
-            "img/humificador.avif",
-            "img/humificador2.avif",
-            "img/humificador0.avif"
+            "img/ap.avif",
+            "img/ap1.avif",
+            "img/ap2.avif"
         ],
-        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+        descripcion: "impermeables diseñadas para ser compatibles con Apple Watch Ultra 2 y Series 11/10/9/8/7/6/SE/SE2/SE7."
     }
 ];
 
