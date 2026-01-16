@@ -1,7 +1,7 @@
 const productos = [
     {
         nombre: "Cámara WiFi",
-        precio: "$40.000",
+        precio: "$38.500",
         img: [
             "img/camera.avif",
             "img/camera2.avif",
@@ -11,7 +11,7 @@ const productos = [
     },
     {
         nombre: "Sandalias",
-        precio: "$35.000",
+        precio: "$22.500",
         img: [
             "img/sandalias.avif",
             "img/sandalias2.avif",
@@ -21,6 +21,166 @@ const productos = [
     },
     {
         nombre: "Humificador",
+        precio: "$20.000",
+        img: [
+            "img/humificador.avif",
+            "img/humificador2.avif",
+            "img/humificador0.avif"
+        ],
+        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+    },
+    {
+        nombre: "Humificador pequeño",
+        precio: "$14.000",
+        img: [
+            "img/humificador3.avif",
+            "img/pequeno.avif",
+            "img/pequeno1.avif"
+        ],
+        descripcion: "Difusor de Aceites Esenciales con Luz Nocturna Apagable."
+    },
+    {
+        nombre: "",
+        precio: "$20.000",
+        img: [
+            "img/humificador.avif",
+            "img/humificador2.avif",
+            "img/humificador0.avif"
+        ],
+        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+    },
+    {
+        nombre: "",
+        precio: "$20.000",
+        img: [
+            "img/humificador.avif",
+            "img/humificador2.avif",
+            "img/humificador0.avif"
+        ],
+        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+    },
+    {
+        nombre: "",
+        precio: "$20.000",
+        img: [
+            "img/humificador.avif",
+            "img/humificador2.avif",
+            "img/humificador0.avif"
+        ],
+        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+    },
+    {
+        nombre: "",
+        precio: "$20.000",
+        img: [
+            "img/humificador.avif",
+            "img/humificador2.avif",
+            "img/humificador0.avif"
+        ],
+        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+    },
+    {
+        nombre: "",
+        precio: "$20.000",
+        img: [
+            "img/humificador.avif",
+            "img/humificador2.avif",
+            "img/humificador0.avif"
+        ],
+        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+    },
+    {
+        nombre: "",
+        precio: "$20.000",
+        img: [
+            "img/humificador.avif",
+            "img/humificador2.avif",
+            "img/humificador0.avif"
+        ],
+        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+    },
+    {
+        nombre: "",
+        precio: "$20.000",
+        img: [
+            "img/humificador.avif",
+            "img/humificador2.avif",
+            "img/humificador0.avif"
+        ],
+        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+    },
+    {
+        nombre: "",
+        precio: "$20.000",
+        img: [
+            "img/humificador.avif",
+            "img/humificador2.avif",
+            "img/humificador0.avif"
+        ],
+        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+    },
+    {
+        nombre: "",
+        precio: "$20.000",
+        img: [
+            "img/humificador.avif",
+            "img/humificador2.avif",
+            "img/humificador0.avif"
+        ],
+        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+    },
+    {
+        nombre: "",
+        precio: "$20.000",
+        img: [
+            "img/humificador.avif",
+            "img/humificador2.avif",
+            "img/humificador0.avif"
+        ],
+        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+    },
+    {
+        nombre: "",
+        precio: "$20.000",
+        img: [
+            "img/humificador.avif",
+            "img/humificador2.avif",
+            "img/humificador0.avif"
+        ],
+        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+    },
+    {
+        nombre: "",
+        precio: "$20.000",
+        img: [
+            "img/humificador.avif",
+            "img/humificador2.avif",
+            "img/humificador0.avif"
+        ],
+        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+    },
+    {
+        nombre: "",
+        precio: "$20.000",
+        img: [
+            "img/humificador.avif",
+            "img/humificador2.avif",
+            "img/humificador0.avif"
+        ],
+        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+    },
+    {
+        nombre: "",
+        precio: "$20.000",
+        img: [
+            "img/humificador.avif",
+            "img/humificador2.avif",
+            "img/humificador0.avif"
+        ],
+        descripcion: "Humificador ultrasónico ideal para aromaterapia y ambientes relajantes."
+    },
+    {
+        nombre: "",
         precio: "$20.000",
         img: [
             "img/humificador.avif",
