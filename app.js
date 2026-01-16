@@ -9,8 +9,8 @@ const productos = [
         descripcion: "1pc Cámara WiFi Inalámbrica de Visión Nocturna a Todo Color | 1080P Full HD, Doble Uso Interior/Exterior, Audio Bidireccional, Tecnología PTZ, Seguridad para el Hogar Inteligente, Seguimiento de Movimiento, Adecuada para el Monitoreo de Ancianos y Mascotas, Para Colgar en la Pared."
     },
     {
-        nombre: "Producto 2",
-        precio: "$55.000",
+        nombre: "Humificador",
+        precio: "$20.000",
         img: ["img/humificador.avif",
             "img/humificador2.avif"
         ],
