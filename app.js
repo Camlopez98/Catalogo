@@ -565,210 +565,210 @@ const productos = [
         precio: "$18.900",
         img: [
             "img/bt.avif",
-            "img/bt1.avif",
+            "img/bb0.avif",
             "img/bt2.avif"
         ],
         descripcion: "Batidor Eléctrico de Espuma de Leche y Café, Batidor Inalámbrico de Acero Inoxidable."
     },
     {
-        nombre: "",
-        precio: "$8.900",
+        nombre: "Funda para iPhone 14 pro max",
+        precio: "$15.200",
         img: [
-            "img/.avif",
-            "img/.avif",
-            "img/.avif"
+            "img/qq.avif",
+            "img/qq1.avif",
+            "img/qq2.avif"
         ],
-        descripcion: "."
+        descripcion: "Diseño con estampado de estrella de mar, tortuga marina y flor de verano."
     },
     {
-        nombre: "",
-        precio: "$8.900",
+        nombre: "Funda para iPhone 15",
+        precio: "$20.000",
         img: [
-            "img/.avif",
-            "img/.avif",
-            "img/.avif"
+            "img/ww.avif",
+            "img/ww1.avif",
+            "img/ww2.avif"
         ],
-        descripcion: "."
+        descripcion: "1 funda para teléfono con estampado de leopardo líquido , 1 protector de cargador, 1 correa para cable de datos y 2 protectores de cable,1 correa de protección para cable de datos."
     },
     {
-        nombre: "",
-        precio: "$8.900",
+        nombre: "Funda para iPhone 14 pro max",
+        precio: "$19.900",
         img: [
-            "img/.avif",
-            "img/.avif",
-            "img/.avif"
+            "img/ee.avif",
+            "img/ee1.avif",
+            "img/ee2.avif"
         ],
-        descripcion: "."
+        descripcion: "Un set de 6 piezas que incluye una funda para teléfono con diseño de cachorro color crema texturizado, cubierta para la cabeza del cargador, protector de cable, correa de almacenamiento y correa de protección para cable de datos."
     },
     {
-        nombre: "",
-        precio: "$8.900",
+        nombre: "Funda para iPhone 11 pro",
+        precio: "$15.900",
         img: [
-            "img/.avif",
-            "img/.avif",
-            "img/.avif"
+            "img/rr.avif",
+            "img/rr1.avif",
+            "img/rr2.avif"
         ],
-        descripcion: "."
+        descripcion: "funda líquida con agujero grande + cubierta para cargador + protector de cable + cuerda de almacenamiento + envoltura protectora para línea de datos."
     },
     {
-        nombre: "",
-        precio: "$8.900",
+        nombre: "Funda para iPhone 17",
+        precio: "$15.900",
         img: [
-            "img/.avif",
-            "img/.avif",
-            "img/.avif"
+            "img/ss.avif",
+            "img/ss1.avif",
+            "img/ss2.avif"
         ],
-        descripcion: "."
+        descripcion: "Patrón de cuero blanco antiguo."
     },
     {
-        nombre: "",
-        precio: "$8.900",
+        nombre: "Funda para iPhone 11",
+        precio: "$12.500",
         img: [
-            "img/.avif",
-            "img/.avif",
-            "img/.avif"
+            "img/zz.avif",
+            "img/zz1.avif",
+            "img/zz2.avif"
         ],
-        descripcion: "."
+        descripcion: "Funda con textura de lichi blanco y patrón de pulpo, estrella de mar, ballena y tortuga en azul claro"
     },
     {
-        nombre: "",
-        precio: "$8.900",
+        nombre: "Funda para iPhone 16 pro",
+        precio: "$19.900",
         img: [
-            "img/.avif",
-            "img/.avif",
-            "img/.avif"
+            "img/xx0.avif",
+            "img/xx.avif",
+            "img/xx1.avif"
         ],
-        descripcion: "."
+        descripcion: "incluye una funda para teléfono de color rojo vino con cintas, una cubierta para la cabeza del cargador, una correa de almacenamiento y una correa de protección para cable de datos."
     },
     {
-        nombre: "",
-        precio: "$8.900",
+        nombre: "Funda para iPhone 11",
+        precio: "$16.900",
         img: [
-            "img/.avif",
-            "img/.avif",
-            "img/.avif"
+            "img/ff.avif",
+            "img/ff1.avif",
+            "img/ff2.avif"
         ],
-        descripcion: "."
+        descripcion: "Funda minimalista con diseño alegre de cara de caramelo, con gran orificio, doble capa de gelatina."
     },
     {
-        nombre: "",
-        precio: "$8.900",
+        nombre: "Funda para iPhone 15 por unidad",
+        precio: "$11.500",
         img: [
-            "img/.avif",
-            "img/.avif",
-            "img/.avif"
+            "img/dd.avif",
+            "img/dd1.avif",
+            "img/dd2.avif"
         ],
-        descripcion: "."
+        descripcion: "Funda Híbrida de Bambú IMD con Airbag."
     },
     {
-        nombre: "",
-        precio: "$8.900",
+        nombre: "Funda para iPhone 11",
+        precio: "$16.900",
         img: [
-            "img/.avif",
-            "img/.avif",
-            "img/.avif"
+            "img/tt.avif",
+            "img/t1.avif",
+            "img/t2.avif"
         ],
-        descripcion: "."
+        descripcion: "Funda suave minimalista con marco cruzado blanco."
     },
     {
-        nombre: "",
-        precio: "$8.900",
+        nombre: "Funda para iPhone 16 pro max",
+        precio: "$15.900",
         img: [
-            "img/.avif",
-            "img/.avif",
-            "img/.avif"
+            "img/yy2.avif",
+            "img/yy.avif",
+            "img/yy1.avif"
         ],
-        descripcion: "."
+        descripcion: "Fundas Transparentes Resistentes para Teléfono con Parte Trasera Dura."
     },
     {
-        nombre: "",
-        precio: "$8.900",
+        nombre: "Funda para iPhone 17",
+        precio: "$18.900",
         img: [
-            "img/.avif",
-            "img/.avif",
-            "img/.avif"
+            "img/uu.avif",
+            "img/uu1.avif",
+            "img/uu2.avif"
         ],
-        descripcion: "."
+        descripcion: "Juego de 5 piezas, 1 Funda blanca antigua con patrón de logo C-Charles L-Leclerc 16, 1 Funda protectora para cargador, 1 Correa para cable de datos y 2 Protectores para cable de datos."
     },
     {
-        nombre: "",
-        precio: "$8.900",
+        nombre: "Bolso Tote Elegante para Mujer",
+        precio: "$29.900",
         img: [
-            "img/.avif",
-            "img/.avif",
-            "img/.avif"
+            "img/ii.avif",
+            "img/ii1.avif",
+            "img/ii2.avif"
         ],
-        descripcion: "."
+        descripcion: "Gran Capacidad con Cierre de Cremallera Seguro - Bolso de Mano, Ligero y Duradero para Trabajo."
     },
     {
-        nombre: "",
-        precio: "$8.900",
+        nombre: "bolso de hombro elegante de paja tejida para mujer",
+        precio: "$19.900",
         img: [
-            "img/.avif",
-            "img/.avif",
-            "img/.avif"
+            "img/oo.avif",
+            "img/oo1.avif",
+            "img/oo2.avif"
         ],
-        descripcion: "."
+        descripcion: "Correa de cadena desmontable y cierre con candado, versátil bandolera/bolso de mano con forro de poliéster, color caqui/moda casual."
     },
     {
-        nombre: "",
-        precio: "$8.900",
+        nombre: "Bolso pequeño cuadrado",
+        precio: "$20.900",
         img: [
-            "img/.avif",
-            "img/.avif",
-            "img/.avif"
+            "img/vv.avif",
+            "img/vv1.avif",
+            "img/vv2.avif"
         ],
-        descripcion: "."
+        descripcion: "Bandolera de un hombro estilo juvenil dulce, cierre magnético, color sólido."
     },
     {
-        nombre: "",
-        precio: "$8.900",
+        nombre: "Canguro minimalista",
+        precio: "$29.900",
         img: [
-            "img/.avif",
-            "img/.avif",
-            "img/.avif"
+            "img/gg.avif",
+            "img/gg1.avif",
+            "img/gg2.avif"
         ],
-        descripcion: "."
+        descripcion: "Bolso de hombro texturizado, cruzado para el pecho, riñonera compacta."
     },
     {
-        nombre: "",
-        precio: "$8.900",
+        nombre: "Portahuevos de Dibujos Animados por unidad",
+        precio: "$3.600",
         img: [
-            "img/.avif",
-            "img/.avif",
-            "img/.avif"
+            "img/ll.avif",
+            "img/ll1.avif",
+            "img/ll2.avif"
         ],
-        descripcion: "."
+        descripcion: "Plástico PP Resistente para Almacenamiento en Cocina y Exhibición Divertida de Desayuno."
     },
     {
-        nombre: "",
-        precio: "$8.900",
+        nombre: "Flores de Bloques de Construcción",
+        precio: "$13.900",
         img: [
-            "img/.avif",
-            "img/.avif",
-            "img/.avif"
+            "img/kk.avif",
+            "img/kk1.avif",
+            "img/kk2.avif"
         ],
-        descripcion: "."
+        descripcion: "Bloques de Construcción de Macetas de Flores."
     },
     {
-        nombre: "",
-        precio: "$8.900",
+        nombre: "Trípode para Teléfono",
+        precio: "$29.900",
         img: [
-            "img/.avif",
-            "img/.avif",
-            "img/.avif"
+            "img/hh.avif",
+            "img/hh1.avif",
+            "img/hh2.avif"
         ],
-        descripcion: "."
+        descripcion: "Rotación 360° y Antivibración, Soporte Ajustable para Smartphone."
     },
     {
-        nombre: "",
-        precio: "$8.900",
+        nombre: "Bolsa de Lavandería",
+        precio: "$7.900",
         img: [
-            "img/.avif",
-            "img/.avif",
-            "img/.avif"
+            "img/nn.avif",
+            "img/nn1.avif",
+            "img/nn2.avif"
         ],
-        descripcion: "."
+        descripcion: "Adecuada para Ropa y Prendas Delicadas."
     }
 ];
 
