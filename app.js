@@ -188,6 +188,587 @@ const productos = [
             "img/ap2.avif"
         ],
         descripcion: "impermeables diseñadas para ser compatibles con Apple Watch Ultra 2 y Series 11/10/9/8/7/6/SE/SE2/SE7."
+    },
+    {
+        nombre: "Peine",
+        precio: "$6.400",
+        img: [
+            "img/cepillo.avif",
+            "img/cepillo1.avif",
+            "img/cepillo2.avif"
+        ],
+        descripcion: "Peine Grande Curvo para Mujeres y Hombres."
+    },
+    {
+        nombre: "Funda para iPhone 16 pro max",
+        precio: "$16.900",
+        img: [
+            "img/fg.avif",
+            "img/fg1.avif",
+            "img/fg2.avif"
+        ],
+        descripcion: "Diseño Ilustrado de Girasol y Abeja ."
+    },
+    {
+        nombre: "Funda para iPhone 15 pro max",
+        precio: "$16.900",
+        img: [
+            "img/f15.avif",
+            "img/f155.avif",
+            "img/f15.avif"
+        ],
+        descripcion: "Funda de gelatina de dos en uno con agujeros grandes."
+    },
+    ,
+    {
+        nombre: "Funda para iPhone 14 pro.",
+        precio: "$8.000",
+        img: [
+            "img/f14pro.avif",
+            "img/f14pro1.avif",
+            "img/f14pro2.avif"
+        ],
+        descripcion: "Funda de Teléfono Negra Elegante con Patrón de Trayectoria de Avión."
+    },
+    {
+        nombre: "Mini Brocha 8 Piezas Bolsa de Maquillaje Portátil",
+        precio: "$9.900",
+        img: [
+            "img/eb.avif",
+            "img/eb1.avif",
+            "img/eb2.avif"
+        ],
+        descripcion: "Set de Brochas para Corrector y Polvo Herramienta de Maquillaje de Pelo Suave con Bolsa de Cierre."
+    },
+    {
+        nombre: "Brocha de pestañas y cejas por unidad",
+        precio: "$3.600",
+        img: [
+            "img/bc.avif",
+            "img/bc1.avif",
+            "img/bc1.avif"
+        ],
+        descripcion: "Cepillo De Cejas Angulado Y Cepillo De Spoolie Para Definir Cejas."
+    },
+    {
+        nombre: "Gafas para dama por unidad",
+        precio: "$12.900",
+        img: [
+            "img/gs.avif",
+            "img/gs1.avif",
+            "img/gs2.avif"
+        ],
+        descripcion: "perfectas para el viaje diario y la moda urbana."
+    },
+    {
+        nombre: "Pendientes de botones florales ",
+        precio: "$7.900",
+        img: [
+            "img/ab.avif",
+            "img/ab1.avif",
+            "img/ab2.avif"
+        ],
+        descripcion: "Vintage para mujer - Hechos de aleación de zinc."
+    },
+    {
+        nombre: "Collar de cadena con la letra M ",
+        precio: "$11.900",
+        img: [
+            "img/cb.avif",
+            "img/cb1.avif",
+            "img/cb2.avif"
+        ],
+        descripcion: "estilo europeo y americano, sensación de alta gama para mujeres."
+    },
+    {
+        nombre: "aretes elegantes para dama",
+        precio: "$7.200",
+        img: [
+            "img/pp.avif",
+            "img/pp1.avif",
+            "img/pp2.avif"
+        ],
+        descripcion: "modernos con forma de hoja."
+    },
+    {
+        nombre: "Aretes de Tulipanes Coloridos",
+        precio: "$8.900",
+        img: [
+            "img/at.avif",
+            "img/at1.avif",
+            "img/at2.avif"
+        ],
+        descripcion: "Uso Diario en Primavera y Verano del Medio Oriente."
+    },
+    {
+        nombre: "Aretes de tortuga para dama",
+        precio: "$6.900",
+        img: [
+            "img/pt.avif",
+            "img/pt1.avif",
+            "img/pt2.avif"
+        ],
+        descripcion: "encantadores y elegantes adornados con diamantes de imitación."
+    },
+    {
+        nombre: "Ear cuff para dama por unidad",
+        precio: "$2.600",
+        img: [
+            "img/ec.avif",
+            "img/ec1.avif",
+            "img/ec2.avif"
+        ],
+        descripcion: "Círculo en Forma de C Punk Espiral Twist Suave Grandes Clips para la Oreja."
+    },
+    {
+        nombre: "Pulseras Elegantes con Temática Oceánica por unidad",
+        precio: "$2.800",
+        img: [
+            "img/pl.avif",
+            "img/pl1.avif",
+            "img/pl2.avif"
+        ],
+        descripcion: "Cuentas Acrílicas, Estrella de Mar y Otros Elementos."
+    },
+    {
+        nombre: "Aretes de Corazón Doble",
+        precio: "$8.900",
+        img: [
+            "img/ac.avif",
+            "img/ac1.avif",
+            "img/ac2.avif"
+        ],
+        descripcion: "Capa con Pintura Goteo Estilo Maillard."
+    },
+    {
+        nombre: "Pendientes de Hoja para dama",
+        precio: "$9.900",
+        img: [
+            "img/ah.avif",
+            "img/ah2.avif",
+            "img/ah3.avif"
+        ],
+        descripcion: "Aleación de Zinc con Postes de Acero Inoxidable."
+    },
+    {
+        nombre: "Aretes redondos para dama por unidad",
+        precio: "$4.000",
+        img: [
+            "img/aa.avif",
+            "img/aa1.avif",
+            "img/aa2.avif"
+        ],
+        descripcion: "cuadrados brillantes de moda vintage elegante | Aleación de aluminio."
+    },
+    {
+        nombre: "Juego Multijugador para Batallas",
+        precio: "$",
+        img: [
+            "img/j.avif",
+            "img/j1.avif",
+            "img/j2.avif"
+        ],
+        descripcion: "Incluye Caja Plástica Fácil almacenamiento Actividad Grupal Interactiva Creativo Estéticamente Divertido."
+    },
+    {
+        nombre: "uego de mesa interactivo",
+        precio: "$",
+        img: [
+            "img/jt.avif",
+            "img/jt1.avif",
+            "img/jt2.avif"
+        ],
+        descripcion: "madera para dos jugadores de XO Tres en Raya, de deducción, para entrenamiento lógico,."
+    },
+    {
+        nombre: "Alfombra de Baño con Relieve de Piedra Calada",
+        precio: "$",
+        img: [
+            "img/tp.avif",
+            "img/tp1.avif",
+            "img/tp2.avif"
+        ],
+        descripcion: "100% Poliéster, Suave, Absorbente, Antideslizante, Lavable, Sin Parabenos, Ideal para la Decoración de la Ducha."
+    },
+    {
+        nombre: "Pijama casual para mujer",
+        precio: "$44.000",
+        img: [
+            "img/pj.avif",
+            "img/pj1.avif",
+            "img/pj2.avif"
+        ],
+        descripcion: "TALLA M, cuello en V y sin mangas, con estampado de mariposas negras en blanco."
+    },
+    {
+        nombre: "Conjunto de pijama para mujer",
+        precio: "$25.000",
+        img: [
+            "img/po.avif",
+            "img/po1.avif",
+            "img/po2.avif"
+        ],
+        descripcion: "TALLA S, Camiseta cómoda con cintura elástica y pantalones cortos."
+    },
+    {
+        nombre: "Conjunto de pijama negra para dama",
+        precio: "$20.000",
+        img: [
+            "img/pn.avif",
+            "img/pn1.avif",
+            "img/pn2.avif"
+        ],
+        descripcion: " TALLA S, cuello en V, manga corta, mezcla de poliéster, perfecto para primavera/verano."
+    },
+    {
+        nombre: "Pijama Elegante para Mujer",
+        precio: "$32.300",
+        img: [
+            "img/pv.avif",
+            "img/pv1.avif",
+            "img/pv2.avif"
+        ],
+        descripcion: "TALLA M, 2 Piezas con Estampado Floral en Verde Esmeralda."
+    },
+    {
+        nombre: "Conjunto de Pijama para dama",
+        precio: "$35.000",
+        img: [
+            "img/pr.avif",
+            "img/pr1.avif",
+            "img/pr2.avif"
+        ],
+        descripcion: "TALLA M, Top de Tirantes de Satén y Estampado Floral y Pantalones Largos."
+    },
+    {
+        nombre: "Pijama vinotinto para dama",
+        precio: "$19.900",
+        img: [
+            "img/pe.avif",
+            "img/pe1.avif",
+            "img/pe2.avif"
+        ],
+        descripcion: "TALLA S, dos piezas con lencería de encaje ."
+    },
+    {
+        nombre: "Conjunto de Pijama de Encaje blanco",
+        precio: "$37.500",
+        img: [
+            "img/pb.avif",
+            "img/pb1.avif",
+            "img/pb2.avif"
+        ],
+        descripcion: "TALLA S, top de Tirantes Finos y Pantalones Elásticos."
+    },
+    {
+        nombre: "Conjunto de Pijama para Mujer",
+        precio: "$29.000",
+        img: [
+            "img/pc.avif",
+            "img/pc1.avif",
+            "img/pc2.avif"
+        ],
+        descripcion: "TALLA M, Encaje de Color Sólido con Cuello en V, Top sin Mangas y Pantalones Cortos ."
+    },
+    {
+        nombre: "Conjunto de pijamas para dama",
+        precio: "$36.000",
+        img: [
+            "img/ps.avif",
+            "img/ps1.avif",
+            "img/ps2.avif"
+        ],
+        descripcion: "TALLA M POR UNIDAD, estampado de cerezas, cuello rizado y pantalones largos.."
+    },
+    {
+        nombre: "Camiseta Casual de Manga Corta para dama",
+        precio: "$38.000",
+        img: [
+            "img/cc.avif",
+            "img/cc1.avif",
+            "img/cc2.avif"
+        ],
+        descripcion: "TALLA M, Estampado de Concha y Cuello Redondo."
+    },
+    {
+        nombre: "Camiseta blanca",
+        precio: "$28.900",
+        img: [
+            "img/cb.avif",
+            "img/cb11.avif",
+            "img/cb22.avif"
+        ],
+        descripcion: "TALLA M , Top de Manga Corta Ajustado con Cuello Cuadrado y Elástico."
+    },
+    {
+        nombre: "Top de verano azul para dama",
+        precio: "$36.300",
+        img: [
+            "img/tv.avif",
+            "img/tv1.avif",
+            "img/tv2.avif"
+        ],
+        descripcion: "TALLA M, top sin mangas asimétrico con dobladillo plisado."
+    },
+    {
+        nombre: "Top de verano negro para dama",
+        precio: "$29.900",
+        img: [
+            "img/tn.avif",
+            "img/tn1.avif",
+            "img/tn2.avif"
+        ],
+        descripcion: "TALLA L, Color Sólido con Hombro Descubierto y Dobladillo Asimétrico ."
+    },
+    {
+        nombre: "Zapatillas de Verano para Hombre",
+        precio: "$18.900",
+        img: [
+            "img/ch.avif",
+            "img/ch1.avif",
+            "img/ch2.avif"
+        ],
+        descripcion: "TALLA 38, Antideslizantes para Interior y Exterior, Sin Olor."
+    },
+    {
+        nombre: "Soporte rústico para llaves",
+        precio: "$20.600",
+        img: [
+            "img/rm.avif",
+            "img/rm1.avif",
+            "img/rm2.avif"
+        ],
+        descripcion: "diseñado para montaje en pared, con un estante estilo rústico de granja con cuatro ganchos."
+    },
+    {
+        nombre: "Gafas de sol por unidad",
+        precio: "$12.900",
+        img: [
+            "img/gf.avif",
+            "img/gf1.avif",
+            "img/gf2.avif"
+        ],
+        descripcion: "Marco de metal clásico, estilo versátil, elegancia sutil para el trabajo ."
+    },
+    {
+        nombre: "Aspiradora Portátil",
+        precio: "$42.900",
+        img: [
+            "img/qw.avif",
+            "img/qw1.avif",
+            "img/qw2.avif"
+        ],
+        descripcion: "Potente Succión, Diseño Ligero e sin varillas para Mayor Movilidad, Modos Doble de Soplo y Succión."
+    },
+    {
+        nombre: "Batidora de Mano USB Recargable",
+        precio: "$18.900",
+        img: [
+            "img/bt.avif",
+            "img/bt1.avif",
+            "img/bt2.avif"
+        ],
+        descripcion: "Batidor Eléctrico de Espuma de Leche y Café, Batidor Inalámbrico de Acero Inoxidable."
+    },
+    {
+        nombre: "",
+        precio: "$8.900",
+        img: [
+            "img/.avif",
+            "img/.avif",
+            "img/.avif"
+        ],
+        descripcion: "."
+    },
+    {
+        nombre: "",
+        precio: "$8.900",
+        img: [
+            "img/.avif",
+            "img/.avif",
+            "img/.avif"
+        ],
+        descripcion: "."
+    },
+    {
+        nombre: "",
+        precio: "$8.900",
+        img: [
+            "img/.avif",
+            "img/.avif",
+            "img/.avif"
+        ],
+        descripcion: "."
+    },
+    {
+        nombre: "",
+        precio: "$8.900",
+        img: [
+            "img/.avif",
+            "img/.avif",
+            "img/.avif"
+        ],
+        descripcion: "."
+    },
+    {
+        nombre: "",
+        precio: "$8.900",
+        img: [
+            "img/.avif",
+            "img/.avif",
+            "img/.avif"
+        ],
+        descripcion: "."
+    },
+    {
+        nombre: "",
+        precio: "$8.900",
+        img: [
+            "img/.avif",
+            "img/.avif",
+            "img/.avif"
+        ],
+        descripcion: "."
+    },
+    {
+        nombre: "",
+        precio: "$8.900",
+        img: [
+            "img/.avif",
+            "img/.avif",
+            "img/.avif"
+        ],
+        descripcion: "."
+    },
+    {
+        nombre: "",
+        precio: "$8.900",
+        img: [
+            "img/.avif",
+            "img/.avif",
+            "img/.avif"
+        ],
+        descripcion: "."
+    },
+    {
+        nombre: "",
+        precio: "$8.900",
+        img: [
+            "img/.avif",
+            "img/.avif",
+            "img/.avif"
+        ],
+        descripcion: "."
+    },
+    {
+        nombre: "",
+        precio: "$8.900",
+        img: [
+            "img/.avif",
+            "img/.avif",
+            "img/.avif"
+        ],
+        descripcion: "."
+    },
+    {
+        nombre: "",
+        precio: "$8.900",
+        img: [
+            "img/.avif",
+            "img/.avif",
+            "img/.avif"
+        ],
+        descripcion: "."
+    },
+    {
+        nombre: "",
+        precio: "$8.900",
+        img: [
+            "img/.avif",
+            "img/.avif",
+            "img/.avif"
+        ],
+        descripcion: "."
+    },
+    {
+        nombre: "",
+        precio: "$8.900",
+        img: [
+            "img/.avif",
+            "img/.avif",
+            "img/.avif"
+        ],
+        descripcion: "."
+    },
+    {
+        nombre: "",
+        precio: "$8.900",
+        img: [
+            "img/.avif",
+            "img/.avif",
+            "img/.avif"
+        ],
+        descripcion: "."
+    },
+    {
+        nombre: "",
+        precio: "$8.900",
+        img: [
+            "img/.avif",
+            "img/.avif",
+            "img/.avif"
+        ],
+        descripcion: "."
+    },
+    {
+        nombre: "",
+        precio: "$8.900",
+        img: [
+            "img/.avif",
+            "img/.avif",
+            "img/.avif"
+        ],
+        descripcion: "."
+    },
+    {
+        nombre: "",
+        precio: "$8.900",
+        img: [
+            "img/.avif",
+            "img/.avif",
+            "img/.avif"
+        ],
+        descripcion: "."
+    },
+    {
+        nombre: "",
+        precio: "$8.900",
+        img: [
+            "img/.avif",
+            "img/.avif",
+            "img/.avif"
+        ],
+        descripcion: "."
+    },
+    {
+        nombre: "",
+        precio: "$8.900",
+        img: [
+            "img/.avif",
+            "img/.avif",
+            "img/.avif"
+        ],
+        descripcion: "."
+    },
+    {
+        nombre: "",
+        precio: "$8.900",
+        img: [
+            "img/.avif",
+            "img/.avif",
+            "img/.avif"
+        ],
+        descripcion: "."
     }
 ];
 
