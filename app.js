@@ -21,7 +21,7 @@ const productos = [
     },
     {
         nombre: "Humificador",
-        precio: "$20.000",
+        precio: "$34.900",
         img: [
             "img/humificador.avif",
             "img/humificador2.avif",
@@ -31,7 +31,7 @@ const productos = [
     },
     {
         nombre: "Humificador pequeño",
-        precio: "$14.000",
+        precio: "$15.900",
         img: [
             "img/humificador3.avif",
             "img/pequeno.avif",
@@ -171,7 +171,7 @@ const productos = [
     },
     {
         nombre: "Pasadores para el cabello por unidad",
-        precio: "$3.900",
+        precio: "$3.900 c/u",
         img: [
             "img/ca0.avif",
             "img/ca.avif",
@@ -181,7 +181,7 @@ const productos = [
     },
     {
         nombre: "Correas de silicona por unidad",
-        precio: "$8.000",
+        precio: "$8.000 c/u",
         img: [
             "img/ap.avif",
             "img/ap1.avif",
@@ -222,7 +222,7 @@ const productos = [
     ,
     {
         nombre: "Funda para iPhone 14 pro.",
-        precio: "$8.000",
+        precio: "$16.900",
         img: [
             "img/f14pro.avif",
             "img/f14pro1.avif",
@@ -242,17 +242,17 @@ const productos = [
     },
     {
         nombre: "Brocha de pestañas y cejas por unidad",
-        precio: "$3.600",
+        precio: "$3.600 c/u",
         img: [
             "img/bc.avif",
             "img/bc1.avif",
-            "img/bc1.avif"
+            "img/bc2.avif"
         ],
         descripcion: "Cepillo De Cejas Angulado Y Cepillo De Spoolie Para Definir Cejas."
     },
     {
         nombre: "Gafas para dama por unidad",
-        precio: "$12.900",
+        precio: "$12.900 c/u",
         img: [
             "img/gs.avif",
             "img/gs1.avif",
@@ -274,7 +274,7 @@ const productos = [
         nombre: "Collar de cadena con la letra M ",
         precio: "$11.900",
         img: [
-            "img/cb.avif",
+            "img/cb222.avif",
             "img/cb1.avif",
             "img/cb2.avif"
         ],
@@ -312,7 +312,7 @@ const productos = [
     },
     {
         nombre: "Ear cuff para dama por unidad",
-        precio: "$2.600",
+        precio: "$2.600 c/u",
         img: [
             "img/ec.avif",
             "img/ec1.avif",
@@ -322,7 +322,7 @@ const productos = [
     },
     {
         nombre: "Pulseras Elegantes con Temática Oceánica por unidad",
-        precio: "$2.800",
+        precio: "$2.800 c/u",
         img: [
             "img/pl.avif",
             "img/pl1.avif",
@@ -352,7 +352,7 @@ const productos = [
     },
     {
         nombre: "Aretes redondos para dama por unidad",
-        precio: "$4.000",
+        precio: "$4.000 c/u",
         img: [
             "img/aa.avif",
             "img/aa1.avif",
@@ -362,7 +362,7 @@ const productos = [
     },
     {
         nombre: "Juego Multijugador para Batallas",
-        precio: "$",
+        precio: "$25.900",
         img: [
             "img/j.avif",
             "img/j1.avif",
@@ -371,8 +371,8 @@ const productos = [
         descripcion: "Incluye Caja Plástica Fácil almacenamiento Actividad Grupal Interactiva Creativo Estéticamente Divertido."
     },
     {
-        nombre: "uego de mesa interactivo",
-        precio: "$",
+        nombre: "Juego de mesa interactivo",
+        precio: "$11.900",
         img: [
             "img/jt.avif",
             "img/jt1.avif",
@@ -382,7 +382,7 @@ const productos = [
     },
     {
         nombre: "Alfombra de Baño con Relieve de Piedra Calada",
-        precio: "$",
+        precio: "$19.900",
         img: [
             "img/tp.avif",
             "img/tp1.avif",
@@ -412,7 +412,7 @@ const productos = [
     },
     {
         nombre: "Conjunto de pijama negra para dama",
-        precio: "$20.000",
+        precio: "$19.900",
         img: [
             "img/pn.avif",
             "img/pn1.avif",
@@ -472,7 +472,7 @@ const productos = [
     },
     {
         nombre: "Conjunto de pijamas para dama",
-        precio: "$36.000",
+        precio: "$36.000 c/u",
         img: [
             "img/ps.avif",
             "img/ps1.avif",
@@ -521,8 +521,8 @@ const productos = [
         descripcion: "TALLA L, Color Sólido con Hombro Descubierto y Dobladillo Asimétrico ."
     },
     {
-        nombre: "Zapatillas de Verano para Hombre",
-        precio: "$18.900",
+        nombre: "Zapatillas de Verano amarilla para Hombre",
+        precio: "$19.900",
         img: [
             "img/ch.avif",
             "img/ch1.avif",
@@ -582,7 +582,7 @@ const productos = [
     },
     {
         nombre: "Funda para iPhone 15",
-        precio: "$20.000",
+        precio: "$19.900",
         img: [
             "img/ww.avif",
             "img/ww1.avif",
