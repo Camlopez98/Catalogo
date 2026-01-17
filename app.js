@@ -151,7 +151,7 @@ const productos = [
     },
     {
         nombre: "Aretes plateados por unidad",
-        precio: "$5.500",
+        precio: "$5.500 c/u",
         img: [
             "img/aret.avif",
             "img/aret1.avif",
