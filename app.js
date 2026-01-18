@@ -706,7 +706,7 @@ const productos = [
         img: [
             "img/oo.avif",
             "img/oo1.avif",
-            "img/oo2.avif"
+            "img/002.avif"
         ],
         descripcion: "Correa de cadena desmontable y cierre con candado, versátil bandolera/bolso de mano con forro de poliéster, color caqui/moda casual."
     },
