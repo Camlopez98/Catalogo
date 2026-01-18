@@ -10,7 +10,7 @@ const productos = [
         descripcion: "Cámara WiFi con visión nocturna, audio bidireccional y seguimiento de movimiento."
     },
     {
-        nombre: "Sandalias",
+        nombre: "Sandalias para dama",
         precio: "$22.500",
         img: [
             "img/sandalias.avif",
@@ -40,7 +40,7 @@ const productos = [
         descripcion: "Difusor de Aceites Esenciales con Luz Nocturna Apagable."
     },
     {
-        nombre: "Pantuflas negras para dama",
+        nombre: "Pantuflas negras",
         precio: "$22.900",
         img: [
             "img/peluche.avif",
@@ -298,7 +298,9 @@ const productos = [
             "img/at1.avif",
             "img/at2.avif"
         ],
-        descripcion: "Uso Diario en Primavera y Verano del Medio Oriente."
+        descripcion: "Uso Diario en Primavera y Verano del Medio Oriente.",
+        vendido: true
+
     },
     {
         nombre: "Aretes de tortuga para dama",
@@ -777,12 +779,16 @@ const contenedor = document.querySelector(".productos");
 productos.forEach((producto, index) => {
     contenedor.innerHTML += `
         <div class="card">
-            <img 
-                class="principal" 
-                id="principal-${index}" 
-                src="${producto.img[0]}" 
-                alt="${producto.nombre}"
-            >
+    <div class="imagen-container">
+        ${producto.vendido ? `<span class="vendido">VENDIDO</span>` : ""}
+        <img 
+            class="principal" 
+            id="principal-${globalIndex}" 
+            src="${producto.img[0]}" 
+            alt="${producto.nombre}"
+        >
+    </div>
+
 
             <div class="miniaturas">
                 ${producto.img.map(imagen => `
