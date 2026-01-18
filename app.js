@@ -40,8 +40,8 @@ const productos = [
         descripcion: "Difusor de Aceites Esenciales con Luz Nocturna Apagable."
     },
     {
-        nombre: "Pantuflas",
-        precio: "$23.000",
+        nombre: "Pantuflas negras para dama",
+        precio: "$22.900",
         img: [
             "img/peluche.avif",
             "img/peluche1.avif",
@@ -61,7 +61,7 @@ const productos = [
     },
     {
         nombre: "Collar de Trebol Dorado",
-        precio: "$7.000",
+        precio: "$6.900",
         img: [
             "img/t.avif",
             "img/t1.avif",
@@ -71,7 +71,7 @@ const productos = [
     },
     {
         nombre: "Collar de Trebol Plateado",
-        precio: "$7.000",
+        precio: "$6.900",
         img: [
             "img/c.avif",
             "img/t2.avif",
@@ -91,7 +91,7 @@ const productos = [
     },
     {
         nombre: "funda protectora de cargador",
-        precio: "$12.000",
+        precio: "$11.900",
         img: [
             "img/pro.avif",
             "img/pro1.avif",
@@ -181,7 +181,7 @@ const productos = [
     },
     {
         nombre: "Correas de silicona por unidad",
-        precio: "$8.000 c/u",
+        precio: "$7.900 c/u",
         img: [
             "img/ap.avif",
             "img/ap1.avif",
@@ -352,7 +352,7 @@ const productos = [
     },
     {
         nombre: "Aretes redondos para dama por unidad",
-        precio: "$4.000 c/u",
+        precio: "$3.900 c/u",
         img: [
             "img/aa.avif",
             "img/aa1.avif",
@@ -392,7 +392,7 @@ const productos = [
     },
     {
         nombre: "Pijama casual para mujer",
-        precio: "$44.000",
+        precio: "$43.900",
         img: [
             "img/pj.avif",
             "img/pj1.avif",
@@ -402,7 +402,7 @@ const productos = [
     },
     {
         nombre: "Conjunto de pijama para mujer",
-        precio: "$25.000",
+        precio: "$24.900",
         img: [
             "img/po.avif",
             "img/po1.avif",
@@ -432,7 +432,7 @@ const productos = [
     },
     {
         nombre: "Conjunto de Pijama para dama",
-        precio: "$35.000",
+        precio: "$34.900",
         img: [
             "img/pr.avif",
             "img/pr1.avif",
@@ -462,7 +462,7 @@ const productos = [
     },
     {
         nombre: "Conjunto de Pijama para Mujer",
-        precio: "$29.000",
+        precio: "$28.900",
         img: [
             "img/pc.avif",
             "img/pc1.avif",
@@ -472,7 +472,7 @@ const productos = [
     },
     {
         nombre: "Conjunto de pijamas para dama",
-        precio: "$36.000 c/u",
+        precio: "$35.900 c/u",
         img: [
             "img/ps.avif",
             "img/ps1.avif",
@@ -482,7 +482,7 @@ const productos = [
     },
     {
         nombre: "Camiseta Casual de Manga Corta para dama",
-        precio: "$38.000",
+        precio: "$37.900",
         img: [
             "img/cc.avif",
             "img/cc1.avif",
@@ -665,8 +665,8 @@ const productos = [
         precio: "$16.900",
         img: [
             "img/tt.avif",
-            "img/t1.avif",
-            "img/t2.avif"
+            "img/tt1.avif",
+            "img/tt2.avif"
         ],
         descripcion: "Funda suave minimalista con marco cruzado blanco."
     },
