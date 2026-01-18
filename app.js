@@ -299,7 +299,6 @@ const productos = [
             "img/at2.avif"
         ],
         descripcion: "Uso Diario en Primavera y Verano del Medio Oriente.",
-        vendido: true
 
     },
     {
@@ -778,18 +777,13 @@ const contenedor = document.querySelector(".productos");
 
 productos.forEach((producto, index) => {
     contenedor.innerHTML += `
-        <div class="card">
-    <div class="imagen-container">
-        ${producto.vendido ? `<span class="vendido">VENDIDO</span>` : ""}
-        <img 
-            class="principal" 
-            id="principal-${globalIndex}" 
-            src="${producto.img[0]}" 
-            alt="${producto.nombre}"
-        >
-    </div>
-
-
+       <div class="card">
+    <img 
+        class="principal" 
+        id="principal-${globalIndex}" 
+        src="${producto.img[0]}" 
+        alt="${producto.nombre}"
+    >
             <div class="miniaturas">
                 ${producto.img.map(imagen => `
                     <img 
