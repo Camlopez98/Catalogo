@@ -219,7 +219,6 @@ const productos = [
         ],
         descripcion: "Funda de gelatina de dos en uno con agujeros grandes."
     },
-    ,
     {
         nombre: "Funda para iPhone 14 pro.",
         precio: "$16.900",
@@ -769,21 +768,23 @@ const productos = [
             "img/nn1.avif",
             "img/nn2.avif"
         ],
-        descripcion: "Adecuada para Ropa y Prendas Delicadas."
-    }
+        descripcion: "Adecuada para Ropa y Prendas Delicadas.",
+        vendido: false
+    },
 ];
 
 const contenedor = document.querySelector(".productos");
 
 productos.forEach((producto, index) => {
     contenedor.innerHTML += `
-       <div class="card">
-    <img 
-        class="principal" 
-        id="principal-${globalIndex}" 
-        src="${producto.img[0]}" 
-        alt="${producto.nombre}"
-    >
+        <div class="card">
+            <img 
+                class="principal" 
+                id="principal-${index}" 
+                src="${producto.img[0]}" 
+                alt="${producto.nombre}"
+            >
+
             <div class="miniaturas">
                 ${producto.img.map(imagen => `
                     <img 
